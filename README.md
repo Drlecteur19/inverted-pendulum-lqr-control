@@ -53,7 +53,7 @@ The optimal gain **K** is computed by solving the **Algebraic Riccati Equation**
 ## 📊 Results
 All 4 states converge to zero — the pendulum is successfully stabilized.
 
-![LQR Response](results/lqr_response.png)
+![LQR Response](responce.PNG)
 
 ---
 
