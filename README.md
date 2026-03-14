@@ -60,7 +60,7 @@ All 4 states converge to zero — the pendulum is successfully stabilized.
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/inverted-pendulum-lqr-control.git
+   git clone [(https://github.com/Drlecteur19/inverted-pendulum-lqr-control)]
 ```
 2. Open MATLAB
 3. Run:
@@ -88,7 +88,7 @@ All 4 states converge to zero — the pendulum is successfully stabilized.
 ---
 
 ## 👤 Author
-**Your Name**
+**LAMRI TAOURIRT**
 - GitHub: [@Drlecteur19]([https://github.com/Drlecteur19])
 
 ---
