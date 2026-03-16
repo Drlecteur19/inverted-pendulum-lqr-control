@@ -12,8 +12,8 @@ l = 0.25;
 
     % 2. Weighting Matrices (Cost Function)
     % min integral(x'Wx + u'Uu)
-    W = eye(4);    % Weight on states (identity matrix)
-    U = 1;         % Weight on control effort
+    W = diag([10, 1, 10, 1]);  % Penalize position & angle more    
+    U = 10;         % Weight on control effort
 
     % 3. Calculate LQR Gain
     % K is the optimal gain matrix such that u = -Kx
